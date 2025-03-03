@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AntCash</string>
+    <string name="welcome_text">Bienvenido a AntCash</string>
+    <string name="register_text">Registrar Gasto</string>
+    <string name="enviar">Enviar</string>
+    <string name="gasto_fijo">¿Gasto Fijo?</string>
+    <string name="example">Ej: Almuerzo en restaurante</string>
+    <string name="example2">Ej: 50</string>
+    <string name="example3">Ej: Comida</string>
+    <string name="descripcion">Descripción:</string>
+    <string name="data_expend">Ingrese los datos del gasto</string>
+    <string name="amount">Monto:</string>
+    <string name="name_expend">Nombre del gasto:</string>
+    <string name="descript">Descripción:</string>
+    <string name="amount2">Monto:</string>
+    <string name="name_exp2">Nombre:</string>
+    <string name="expend_detail">Detalle del Gasto</string>
+    <string name="gasto_fijo2">Gasto Fijo:</string>
+    <string name="salir">Salir</string>
+</resources>
